@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/devilsown1410/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/devilsown1410/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
@@ -14,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/devilsown1410/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/devilsown1410/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Array
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/devilsown1410/LeetCode/tree/master/0260-single-number-iii) |
+| [1364-tuple-with-same-product](https://github.com/devilsown1410/LeetCode/tree/master/1364-tuple-with-same-product) |
 ## Bit Manipulation
 |  |
 | ------- |
