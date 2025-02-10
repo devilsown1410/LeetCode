@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/devilsown1410/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/devilsown1410/LeetCode/tree/master/3447-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/devilsown1410/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/devilsown1410/LeetCode/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/devilsown1410/LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
